@@ -99,7 +99,9 @@ window.addEventListener("message", function (event) {
         var csrf = event.data.text;
 
         getAccounts(csrf, function (accounts) {
+            console.log("Found "+accounts.length+" possible accounts to update");
             setPrices(accounts, function (updatedAccounts) {
+                console.log(updatedAccounts.length+" valid accounts will be updated");
                 updatedAccounts.forEach(function (account) {
                     updateAccount(csrf, account);
                 });
