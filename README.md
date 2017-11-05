@@ -46,13 +46,13 @@ Chome extension that automatically updates foreign currency values to USD.
 * EUR
 
 ## FAQ
-### Q: Are the words `Currency:$$$` case sensitive?
+#### Q: Are the words `Currency:$$$` case sensitive?
 A: No, they are case insensitive, so this would also work as CuRrEnCy:GbP
 
-### Q: How often will this update?
+#### Q: How often will this update?
 A: Every time you log on from your browser with the extension enabled.
 
-### Q: Do you need to press the button in the top right hand corner?
+#### Q: Do you need to press the button in the top right hand corner?
 A: No you can even hide this by right clicking on it and selecting "Hide in chrome menu".
 
 This project was inspired by [Spencer Clem's pfcrypto](https://github.com/sclem/pfcrypto), so feel free to dontate to his project!
