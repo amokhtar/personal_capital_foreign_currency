@@ -1,4 +1,4 @@
-# personal_capital_foreign_currency
+# Personal Capital Foreign Currency
 Chome extension that automatically updates foreign currency values to USD. 
 
 ## Demo
