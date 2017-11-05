@@ -1,5 +1,5 @@
 # Personal Capital Foreign Currency
-Chome extension that automatically updates foreign currency values to USD. 
+[Chome extension](https://chrome.google.com/webstore/detail/personal-capital-foreign/kdiibemlnnjcjppbljfddgmgjpdhghad/related?hl=en-US) that automatically updates foreign currency values to USD. 
 
 ## Demo
 ![image](https://github.com/amokhtar/personal_capital_foreign_currency/blob/master/Demo.gif)
